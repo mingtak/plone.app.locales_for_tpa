@@ -8096,7 +8096,7 @@ msgstr ""
 #: Archetypes/ExtensibleMetadata.py:93
 #: plone.app.dexterity/plone/app/dexterity/behaviors/metadata.py:73
 msgid "help_description"
-msgstr "會出現在目錄清單和搜尋結果裡。"
+msgstr "短敘述，請填寫至少5個字以上的短句來描述這個項目。"
 
 #. Default: "Some discussion related settings are not located in the Discussion Control Panel.\nTo enable comments for a specific content type, go to the Types Control Panel of this type and choose \"Allow comments\".\nTo enable the moderation workflow for comments, go to the Types Control Panel, choose \"Comment\" and set workflow to \"Comment Review Workflow\"."
 #: plone.app.discussion/plone/app/discussion/browser/controlpanel.py:28
