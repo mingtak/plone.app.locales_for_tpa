@@ -9788,7 +9788,7 @@ msgstr "繼續到 ${portal_title} 首頁"
 #: CMFPlone/skins/plone_login/login_form.cpt:119
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:180
 msgid "label_login_name"
-msgstr "登入帳號"
+msgstr "帳號"
 
 #. Default: "Log in to add comments"
 #: plone.app.discussion/plone/app/discussion/browser/comments.pt:20
