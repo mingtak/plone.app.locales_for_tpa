@@ -18,6 +18,20 @@ msgstr ""
 "Domain: plone\n"
 "X-Is-Fallback-For: zh\n"
 
+# 以下自定義
+
+msgid "tpa_folder_news_listing_view"
+msgstr "最新消息列表,首頁適用(TPA)"
+
+msgid "tpa_folder_view"
+msgstr "只顯示目錄(TPA)"
+
+msgid "tpa_folder_listing_view"
+msgstr "顯示內容列表(TPA)"
+
+## 以上自定義
+
+
 #: plone.app.dexterity/plone/app/dexterity/interfaces.py:95
 msgid "# of items"
 msgstr "項目數量"
