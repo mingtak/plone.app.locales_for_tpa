@@ -24,7 +24,7 @@ msgid "tpa_folder_news_listing_view"
 msgstr "最新消息列表,首頁適用(TPA)"
 
 msgid "tpa_folder_view"
-msgstr "只顯示目錄(TPA)"
+msgstr "分二欄顯示(TPA)"
 
 msgid "tpa_folder_listing_view"
 msgstr "顯示內容列表(TPA)"
